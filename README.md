@@ -26,5 +26,3 @@ The project is divided into logical modules (header files `.h` + implementation 
 3. Make sure all 5 files (`main.cpp`, `drone.cpp`, `drone.h`, `encryption.cpp`, `encryption.h`) are included in your build.
 4. Compile and run the project.
 5. **Default login password:** `1234`
-
-Translated with DeepL.com (free version)
